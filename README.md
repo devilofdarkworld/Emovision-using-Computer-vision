@@ -14,6 +14,7 @@ A computer vision project for emotion detection, helping analyze facial expressi
 - Python
 - OpenCV
 - Machine Learning
-
+-Computer vision
+-Flask
 ## How to Run
 1. Clone the repository:
